@@ -77,7 +77,7 @@ Editor preferences are available in the [editor config](https://FaceRecog/blob/m
 
 ## Thanks
 
-Some Text
+Myself for this cool program
 
 ## Copyright and license
 
